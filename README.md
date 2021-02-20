@@ -1,2 +1,3 @@
 # CS61B
-UCB CS61B (spring, 2018) Data Structures
+By Yuhan Wang
+UC Berkeley CS61B (spring, 2018) Data Structures
